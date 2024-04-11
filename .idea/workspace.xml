@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2a5092b-87c5-4935-b116-e85b0fc374fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C[2] &gt; C[0] &amp; H[2] != O[2].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C[2] &gt; C[1] &amp; C[2] != O[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H[1] &lt; H[2] &amp; O[2] &gt; C[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H[1] &lt; H[3] &amp; O[2] != H[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H[2] &gt; H[1] &amp; O[0] &lt; O[2].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L[1] &lt; C[1] &amp; O[0] &lt; O[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L[1] &lt; H[0] &amp; O[2] &lt; H[2] &amp; C[2] &gt; C[0].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[0] &lt; O[1] &amp; C[1] != L[2].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[0] &lt; O[1] &amp; O[1] &gt; L[2].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[0] &lt; O[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[0] &lt; O[2] &amp; H[2] &gt; H[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[1] &gt; C[0] &amp; O[0] &gt; L[1] &amp; O[1] != C[1].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[1] &gt; O[0].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O[2] &gt; L[0] &amp; H[1] &lt; H[2].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/patterns.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2esw76EPqi0re3lqMuyPEAkmSsA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MiningCandlestickPatterns" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a5092b-87c5-4935-b116-e85b0fc374fc" name="Changes" comment="" />
+      <created>1712706422607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712706422607</updated>
+      <workItem from="1712706423516" duration="2661000" />
+      <workItem from="1712712092298" duration="14594000" />
+      <workItem from="1712768935158" duration="4801000" />
+      <workItem from="1712774564966" duration="8445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiningCandlestickPatterns$main.coverage" NAME="main Coverage Results" MODIFIED="1712772938495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

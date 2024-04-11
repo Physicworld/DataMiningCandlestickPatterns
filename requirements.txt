@@ -1,0 +1,8 @@
+pandas
+numpy
+ccxt
+matplotlib
+mplfinance
+jupyter
+chardet
+scikit-learn
